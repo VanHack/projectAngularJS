@@ -1,0 +1,45 @@
+html,
+body {
+    height: 100%;
+}
+.ng-scope{
+	height: 100%;
+}
+#main{
+    height: 100%;
+}
+.container {
+	margin-top: 20px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .ng-scope{
+    height: 100%;
+}
+.question {
+    color: #e7792b;
+}
+.panel-teal{
+   	background: #1ebfae; 
+   	color: #fff;
+	height: 130px;
+}
+.panel-error{
+   	background: #d33f3f; 
+   	color: #fff;
+	height: 130px;
+}
+.loading {
+    position:   fixed;
+    z-index:    1;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('../img/loader.gif') 
+                50% 50% 
+                no-repeat;
+}
