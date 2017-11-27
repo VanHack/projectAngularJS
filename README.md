@@ -11,6 +11,8 @@ Jersey API (JAX-RS), Java, DataSource, Mysql
 
 AWS services: ElasticBeanStalk, S3, EC2, RDS, Route53...
 
+![Alt text](/readme/Panel1.PNG?raw=true "Main image")
+![Alt text](/readme/Panel2.PNG?raw=true "Main image")
 
 ## Descrition
 
